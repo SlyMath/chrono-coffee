@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Chrono Coffee</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js" defer></script>
+    </head>
+
+    <body>
+        <div id="coffee-buttons">
+        <button id="start-button" class="coffee-button">Start</button>
+        <button id="stop-button" class="coffee-button coffee-button--light">Stop</button>
+        <button id="mode-button" class="coffee-button">🌙</button>
+        </div>
+        <main class="container">
+            <section class="timer">
+            <div id="display" class="timer-display" aria-live="polite">
+                <span id="minutes">00</span>:<span id="seconds">00</span>
+            </div>
+            <div class="progress">
+                <div id="progress-bar"></div> 
+            </div>
+        </section>
+            <footer class="info">
+            <small id="coffee-status">Prêt</small>
+            </footer>
+        </main>
+    </body>
+</html>
