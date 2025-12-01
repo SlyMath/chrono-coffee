@@ -2,8 +2,7 @@
 
 Application de chronomètre interactif pour les amateurs de café.
 
-[Aperçu de l'application]
-
+**Aperçu du chrono-coffee en temps réel : ** [https://slymath.github.io/chrono-coffee/](https://slymath.github.io/chrono-coffee/)
 **Version Light Mode**
 <img width="2555" height="1230" alt="chrono-coffee_1" src="https://github.com/user-attachments/assets/e4b9c8ba-df63-4f51-86a7-2237ba7da430" />
 **Version Dark Mode**
